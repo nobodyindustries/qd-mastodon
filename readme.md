@@ -8,9 +8,11 @@ Post statuses on their own or statuses with an image. That covers almost all of 
 HELP
 ----
 
+```
 Usage: qdm.py [OPTIONS]
 
 Options:
   --content TEXT  Content of the toot
   --file TEXT     File attached to the toot
   --help          Show this message and exit.
+```
